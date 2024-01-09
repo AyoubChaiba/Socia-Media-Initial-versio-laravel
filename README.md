@@ -63,9 +63,9 @@ This Laravel project is a basic implementation of a social media platform. It in
 The application will be accessible at http://localhost:8000.
 
 # Usage
-    Register a new account or login if you already have one.
-    Create new posts and share your thoughts.
-    Interact with other users' posts by leaving comments.
-    Explore and enjoy the social media experience!
-    Contributing
-    If you would like to contribute to this project, please follow the guidelines in CONTRIBUTING.md.
+    1. Register a new account or login if you already have one.
+    2. Create new posts and share your thoughts.
+    3. Interact with other users' posts by leaving comments.
+    4. Explore and enjoy the social media experience!
+    5. Contributing
+    6. If you would like to contribute to this project, please follow the guidelines in CONTRIBUTING.md.
